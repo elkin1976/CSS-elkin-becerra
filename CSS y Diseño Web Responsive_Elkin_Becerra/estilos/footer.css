@@ -1,0 +1,30 @@
+#pie {
+  width: 100%;
+  background:  #C6d5c5;
+  color: black;
+  text-align: center;
+  border-radius:0 0 10px 10px;
+  display: table;
+}
+.info{
+  width: 240px;
+  height: 200px;
+}
+.info a{
+  color: black;
+  font-size: 38px;
+}
+#pie .contenedor{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  padding-top: 40px;
+}
+.info p{
+  font-size: 48px;
+font-weight: bold;
+}
+.info span{
+  font-size: 38px;
+}

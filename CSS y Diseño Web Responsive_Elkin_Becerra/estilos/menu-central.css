@@ -1,0 +1,16 @@
+#imagen-central{
+  margin-top: 100px;
+  background: #82c3a6;
+  height: 450px;
+  display: flex;
+  justify-content: center;
+}
+#imagen-central img {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  max-width: 95%;
+  max-height: 400px;
+  margin: 40px;
+  border: 2px solid;
+}
